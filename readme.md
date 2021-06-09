@@ -6,7 +6,9 @@
 
 1. Clone Repo to local machine
 2. Navigate into project folder in terminal and run `npm install`
-3. Once all is installed run `npm run dev` to start development server
+3. Add in your own database details inside the `.env` file
+4. Once all is installed run `npm run dev` to start development server
+
 
 #### Packages used in this project
 
